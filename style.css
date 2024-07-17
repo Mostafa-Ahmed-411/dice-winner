@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: #393d46;
+    height: 95vh;
+    align-content: center;
+    color: #4ccea4;
+}
+.sp{
+    margin-top: 2px;
+    display: block;
+    color: tan;
+    font: .7em small-caption;
+    letter-spacing: 1pt;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    margin-inline: 5%;
+    width: 100px;
+}
+img{
+    width: 100%;
+}
